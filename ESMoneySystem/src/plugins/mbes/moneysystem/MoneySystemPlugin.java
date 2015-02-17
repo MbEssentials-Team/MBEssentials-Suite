@@ -8,7 +8,7 @@ import com.mbserver.api.MBServerPlugin;
 import com.mbserver.api.Manifest;
 import com.mbserver.api.dynamic.ChatColor;
 
-@Manifest(name="ESLogKeeper",authors = {"TheMushyPeas","AAAA","Abiram"})
+@Manifest(name="ESMoneySystem",authors = {"TheMushyPeas","AAAA","Abiram"})
 
 public class MoneySystemPlugin extends MBServerPlugin{
 	

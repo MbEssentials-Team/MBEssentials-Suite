@@ -13,7 +13,7 @@ import plugins.mbes.modcommands.ReportCmds;
 import plugins.mbes.modcommands.MuteHandler;
 import plugins.mbes.modcommands.ReportManager;
 
-@Manifest(name="ESLogKeeper",authors = {"TheMushyPeas","AAAA","Abiram"})
+@Manifest(name="ESModCommands",authors = {"TheMushyPeas","AAAA","Abiram"})
 
 public class ModCommandsPlugin extends MBServerPlugin{
 

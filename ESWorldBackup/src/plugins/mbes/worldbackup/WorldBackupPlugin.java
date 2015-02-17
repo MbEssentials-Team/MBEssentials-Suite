@@ -9,7 +9,7 @@ import com.mbserver.api.MBServerPlugin;
 import com.mbserver.api.Manifest;
 
 
-@Manifest(name="ESLogKeeper",authors = {"TheMushyPeas","AAAA","Abiram"}, config = Config.class)
+@Manifest(name="ESWorldBackup",authors = {"TheMushyPeas","AAAA","Abiram"}, config = Config.class)
 public class WorldBackupPlugin extends MBServerPlugin{
 
 	private Config config;

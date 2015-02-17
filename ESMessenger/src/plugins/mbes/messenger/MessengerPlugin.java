@@ -7,7 +7,7 @@ import com.mbserver.api.dynamic.ChatColor;
 import plugins.mbes.messenger.PMCmds;
 import plugins.mbes.messenger.PMBlockHandler;
 
-@Manifest(name="ESLogKeeper",authors = {"TheMushyPeas","AAAA","Abiram"})
+@Manifest(name="ESMessenger",authors = {"TheMushyPeas","AAAA","Abiram"})
 
 public class MessengerPlugin extends MBServerPlugin {
 
