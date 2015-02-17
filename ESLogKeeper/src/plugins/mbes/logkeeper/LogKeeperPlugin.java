@@ -39,25 +39,25 @@ public class LogKeeperPlugin extends MBServerPlugin{
 		
 		logm = new LogManager();
 		 
-		breakLog = new Logger("logs/MBE_Logs/Break_Logs/");
+		breakLog = new Logger("logs/ESLogKeeper/Break_Logs/");
 		logm.attachLogger(breakLog);
 
-		cmdLog = new Logger("logs/MBE_Logs/Command_Logs/");
+		cmdLog = new Logger("logs/ESLogKeeper/Command_Logs/");
 		logm.attachLogger(cmdLog);
 
 
 
-		deathLog = new Logger("logs/MBE_Logs/Death_Logs/");
+		deathLog = new Logger("logs/ESLogKeeper/Death_Logs/");
 		logm.attachLogger(deathLog);
 
 
 
-		placeLog = new Logger("logs/MBE_Logs/Place_Logs/");
+		placeLog = new Logger("logs/ESLogKeeper/Place_Logs/");
 		logm.attachLogger(placeLog);
 
 
 
-		PvPLog = new Logger("logs/MBE_Logs/PvP_Logs/");
+		PvPLog = new Logger("logs/ESLogKeeper/PvP_Logs/");
 		logm.attachLogger(PvPLog);
 
 		 
